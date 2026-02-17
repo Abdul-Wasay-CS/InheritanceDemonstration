@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.educationalReferences;
 
 /**
  * INHERITANCE_CONCEPTS_GUIDE.java - Complete Beginner's Guide to Inheritance

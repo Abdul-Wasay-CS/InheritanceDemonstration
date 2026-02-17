@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * CAT.JAVA - Another Child Class Inheriting from Animal

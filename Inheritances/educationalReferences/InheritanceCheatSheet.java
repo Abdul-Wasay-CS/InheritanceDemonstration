@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.educationalReferences;
 
 /**
  * INHERITANCE_CHEAT_SHEET.java - Quick Reference Guide

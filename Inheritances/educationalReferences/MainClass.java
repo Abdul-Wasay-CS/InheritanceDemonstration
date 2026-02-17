@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.educationalReferences;
 
 public class MainClass {
     public static void main(String[] args) {

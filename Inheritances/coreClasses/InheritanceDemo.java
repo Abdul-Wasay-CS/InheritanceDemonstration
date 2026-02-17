@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * INHERITANCEDEMO.JAVA - Comprehensive Demonstration of Inheritance

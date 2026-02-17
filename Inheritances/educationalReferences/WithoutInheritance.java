@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.educationalReferences;
 
 /**
  * WITHOUTINHERITANCE.JAVA - Bad Example: What Code Looks Like WITHOUT Inheritance

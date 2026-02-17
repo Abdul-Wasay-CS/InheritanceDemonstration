@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * DOG.JAVA - Child Class Inheriting from Animal

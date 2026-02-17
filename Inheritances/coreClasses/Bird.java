@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * BIRD.JAVA - Third Child Class Inheriting from Animal

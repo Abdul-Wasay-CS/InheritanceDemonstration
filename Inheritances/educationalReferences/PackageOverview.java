@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.educationalReferences;
 
 /**
  * PACKAGE_OVERVIEW.java - Complete Package Structure and File Guide

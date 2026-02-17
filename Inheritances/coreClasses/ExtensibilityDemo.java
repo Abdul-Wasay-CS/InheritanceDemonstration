@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * EXTENSIBILITY_DEMO.java - Showing How Easy It Is To Add New Animals

@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * ANIMAL.JAVA - Base/Parent Class for Inheritance Demonstration

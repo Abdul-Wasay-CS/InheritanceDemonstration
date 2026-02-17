@@ -1,4 +1,4 @@
-package Inheritances;
+package Inheritances.coreClasses;
 
 /**
  * BONUS: FISH.JAVA - Demonstrating Extensibility
